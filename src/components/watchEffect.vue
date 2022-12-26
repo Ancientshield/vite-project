@@ -4,8 +4,7 @@
 
 <script setup>
 import { ref } from "@vue/reactivity";
+const text = ref("");
 </script>
-
-const text = ref("")
 
 <style></style>
