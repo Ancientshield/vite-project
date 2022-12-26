@@ -1,5 +1,6 @@
 <template>
-  <computed />
+  <Computed02 />
+  <Computed01 />
   <vFor />
   <componentA />
 </template>
@@ -7,7 +8,8 @@
 <script setup>
 import componentA from "./components/componentsA.vue";
 import vFor from "./components/vFor.vue";
-import computed from "./components/computed.vue";
+import Computed01 from "./components/Computed01.vue";
+import Computed02 from "./components/Computed02.vue";
 </script>
 
 <style></style>

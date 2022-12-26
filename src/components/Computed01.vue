@@ -1,5 +1,5 @@
 <template>
-  <h1>Computed 計算屬性</h1>
+  <h1>Computed 計算屬性1</h1>
   <!-- 一般方法 -->
   <!-- <h3>{{ numFormat() }}</h3> -->
   <!-- 使用 computed -->
